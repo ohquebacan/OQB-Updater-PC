@@ -1,19 +1,19 @@
 {
-  "version": "0.1.0",
-  "notes": "Primera versión de OQB Updater para Mac y PC. En Mac, sigue las instrucciones de LEEME-Mac.txt.",
-  "pub_date": "2026-11-01T07:21:40Z",
+  "version": "0.1.1",
+  "notes": "Partición para la emuNAND al preparar o formatear la tarjeta, pack al terminar de formatear e instalación en tarjetas NTFS.",
+  "pub_date": "2026-11-03T03:21:41Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCt4SkV1ZURDOENjalkyK3JiRHF1dTNNbEtEQlhicW82eDR3dnVKcFB6QWlDV08xbkowaERyemtJM2tGTkpIY3pmQjU3ZStGN0dYM2pHTXloOXNIYXFCU1hMNjBPZVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTE3NzAwCWZpbGU6T1FCLVVwZGF0ZXItTWFjLmFwcC50YXIuZ3oKK0Q4NkIzbEUwUDh6YnZlT1FscjZWYmcxQkF5aWRyUGl1MDdjc1diSEQzc3BhbW10R1V3eDRpMFdWd1c5dUV2MDJkbXJ1L01PM0NIcGxUU1M4VGhXQ3c9PQo=",
-      "url": "https://github.com/ohquebacan/OQB-Updater-PC/releases/download/app-v0.1.0/OQB-Updater-Mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCt4SkV1ZURDOFBEdUFXSmVTNVRzSVAzZU9rU0MzMytFaWNmYWlzcGhnVFNoNFFJd0s5NzFPdzFSVjY1UGkxbHhkR3phczNjSTNKY0Zyb002eG45aEpsN2pCTjcrNFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjc2MTAwCWZpbGU6T1FCLVVwZGF0ZXItTWFjLmFwcC50YXIuZ3oKdjhHN2l1M2lhSDJqUzVSUVJkMVFVZWMvK0lmemFIbUxMZXJ6MkdvcDdvbXFUZU9LellMc3pObHRpQ1YxZWh4K1BrQnlwUnF1UWEzYlZLUnZ5SC9VQXc9PQo=",
+      "url": "https://github.com/ohquebacan/OQB-Updater-PC/releases/download/app-v0.1.1/OQB-Updater-Mac.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCt4SkV1ZURDOENjalkyK3JiRHF1dTNNbEtEQlhicW82eDR3dnVKcFB6QWlDV08xbkowaERyemtJM2tGTkpIY3pmQjU3ZStGN0dYM2pHTXloOXNIYXFCU1hMNjBPZVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTE3NzAwCWZpbGU6T1FCLVVwZGF0ZXItTWFjLmFwcC50YXIuZ3oKK0Q4NkIzbEUwUDh6YnZlT1FscjZWYmcxQkF5aWRyUGl1MDdjc1diSEQzc3BhbW10R1V3eDRpMFdWd1c5dUV2MDJkbXJ1L01PM0NIcGxUU1M4VGhXQ3c9PQo=",
-      "url": "https://github.com/ohquebacan/OQB-Updater-PC/releases/download/app-v0.1.0/OQB-Updater-Mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCt4SkV1ZURDOFBEdUFXSmVTNVRzSVAzZU9rU0MzMytFaWNmYWlzcGhnVFNoNFFJd0s5NzFPdzFSVjY1UGkxbHhkR3phczNjSTNKY0Zyb002eG45aEpsN2pCTjcrNFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjc2MTAwCWZpbGU6T1FCLVVwZGF0ZXItTWFjLmFwcC50YXIuZ3oKdjhHN2l1M2lhSDJqUzVSUVJkMVFVZWMvK0lmemFIbUxMZXJ6MkdvcDdvbXFUZU9LellMc3pObHRpQ1YxZWh4K1BrQnlwUnF1UWEzYlZLUnZ5SC9VQXc9PQo=",
+      "url": "https://github.com/ohquebacan/OQB-Updater-PC/releases/download/app-v0.1.1/OQB-Updater-Mac.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCt4SkV1ZURDOEJOWHF2NFJ1UXU5TG90cit4Q2E3ZnVCWGV3WHN0TFUxUHNYcnNEV1dXQmNLdTFhdDl0Y2VGNFAyTWdtZEs1Y3pBTm9WVkp0QlNxNlZqN1QxcGtyMHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTE3NzAwCWZpbGU6T1FCLVVwZGF0ZXItUEMtc2V0dXAuZXhlCmZ1QVdQcnllUlY4Y0RldHU3QTQrY0RJd0h3UG1DRXBSVkJ0a1ZsRUsxSHpPWS92NE1tZmJNWG01OGxrNkRNNSswaURwaTZhVWxrN3RnUjB2VkZ6UkJ3PT0K",
-      "url": "https://github.com/ohquebacan/OQB-Updater-PC/releases/download/app-v0.1.0/OQB-Updater-PC-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCt4SkV1ZURDOE1OK0pxQWxYS094TzNEZkpBUmYzZEUwSGhRR3M5MTNQS3U1MmE3eG5XRWhFaGFFM3JEdXNURXk4UzVHVW1DaGJtOUp3RHNsb3JKbk15MzF2NC9CMncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjc2MTAxCWZpbGU6T1FCLVVwZGF0ZXItUEMtc2V0dXAuZXhlCjhJaVJjSWtBYWx6KzRLQkJqNmo3UG9iZDF4cFk4UUxTbUJpaHhTVEMvQ0k5Y3E4dysrWkVRd0c0Q3JTemhEbVFUVjRSTngzNVNWekpFbXdRN2ZNRUN3PT0K",
+      "url": "https://github.com/ohquebacan/OQB-Updater-PC/releases/download/app-v0.1.1/OQB-Updater-PC-setup.exe"
     }
   }
 }
