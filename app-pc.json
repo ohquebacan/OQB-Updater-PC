@@ -1,19 +1,19 @@
 {
-  "version": "0.1.3",
-  "notes": "Preparar una tarjeta en uso para pasar a emuNAND, y avisos más claros sobre qué se borra.",
-  "pub_date": "2026-11-05T00:16:16Z",
+  "version": "0.1.4",
+  "notes": "Preparar tarjeta ya no prueba las tarjetas que declaran su fabricante: quedan listas en minutos.",
+  "pub_date": "2026-11-05T05:50:17Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCt4SkV1ZURDOEV2VGNCcHBpVmxUcDZFK0UwOHE3Y2FUZU1MTEdkODhkQ2E4aFloTHp5TlBYTlNwVzVFdVA1VGtXODhuNHMvOGcwMzdrN3c3RC9mZmdiN1VWVjBlVEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODM3Nzc1CWZpbGU6T1FCLVVwZGF0ZXItTWFjLmFwcC50YXIuZ3oKMjN6UVBYMXlPUy9xUzgyTy9mTi9EaHZwbjRxclhCSWxuMExiTUVrUCt5Zk4zYlNIMHVNVzdCUlFPWGtPOWplODNOQStjdlEyS0E3RlRIZUo0UFlBQXc9PQo=",
-      "url": "https://github.com/ohquebacan/OQB-Updater-PC/releases/download/app-v0.1.3/OQB-Updater-Mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCt4SkV1ZURDOE5NdjJpQ1J3QjQrNGpaeVA3ZU1hMXFBcGlwYmVZWkJ5NEd5aW5vQjIzR25ZVGtWUGJhcDdWUWZNc0RYbnRJaGhGd21qakxsYmZlT0wzTUpMakRieUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODU3ODE1CWZpbGU6T1FCLVVwZGF0ZXItTWFjLmFwcC50YXIuZ3oKTklLRDRocU5mdElNVFJlWU5FMjlWUWdwTkU0aUQyVWEvMG5TdXFxdlJSSjBtWlErNEQzTGQ5c3NPbmFucWtOeUpQbHgveVFtcEdwSG9Uc3lYZjVtQWc9PQo=",
+      "url": "https://github.com/ohquebacan/OQB-Updater-PC/releases/download/app-v0.1.4/OQB-Updater-Mac.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCt4SkV1ZURDOEV2VGNCcHBpVmxUcDZFK0UwOHE3Y2FUZU1MTEdkODhkQ2E4aFloTHp5TlBYTlNwVzVFdVA1VGtXODhuNHMvOGcwMzdrN3c3RC9mZmdiN1VWVjBlVEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODM3Nzc1CWZpbGU6T1FCLVVwZGF0ZXItTWFjLmFwcC50YXIuZ3oKMjN6UVBYMXlPUy9xUzgyTy9mTi9EaHZwbjRxclhCSWxuMExiTUVrUCt5Zk4zYlNIMHVNVzdCUlFPWGtPOWplODNOQStjdlEyS0E3RlRIZUo0UFlBQXc9PQo=",
-      "url": "https://github.com/ohquebacan/OQB-Updater-PC/releases/download/app-v0.1.3/OQB-Updater-Mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCt4SkV1ZURDOE5NdjJpQ1J3QjQrNGpaeVA3ZU1hMXFBcGlwYmVZWkJ5NEd5aW5vQjIzR25ZVGtWUGJhcDdWUWZNc0RYbnRJaGhGd21qakxsYmZlT0wzTUpMakRieUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODU3ODE1CWZpbGU6T1FCLVVwZGF0ZXItTWFjLmFwcC50YXIuZ3oKTklLRDRocU5mdElNVFJlWU5FMjlWUWdwTkU0aUQyVWEvMG5TdXFxdlJSSjBtWlErNEQzTGQ5c3NPbmFucWtOeUpQbHgveVFtcEdwSG9Uc3lYZjVtQWc9PQo=",
+      "url": "https://github.com/ohquebacan/OQB-Updater-PC/releases/download/app-v0.1.4/OQB-Updater-Mac.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCt4SkV1ZURDOElFcWpKS2Zhbzk4dE96a25hYlhUTmhGUmJ2bmJmSE5qcGwrcUQyTktRMEJHVzZaU3lGV2dYS1pPOWhsQXB2WERQbnNWT2dQR04ySSsrWE9HMkl4eFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODM3Nzc2CWZpbGU6T1FCLVVwZGF0ZXItUEMtc2V0dXAuZXhlCmVLazYrWmJEV0lFR214amNFQ3U2R1FDd3h6T0ZYUjFPMlBqMVNJL0Z1UDNVVjYrUHNsaG9OYTlYVVZ0Y3lCckcxRGtpQjZObWFEOThSNWErVzAyMEJRPT0K",
-      "url": "https://github.com/ohquebacan/OQB-Updater-PC/releases/download/app-v0.1.3/OQB-Updater-PC-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNCt4SkV1ZURDOFBYS1hnVmh1c3NyWWJ0OHNibWN3ckF2bmprTDVVTG94d3QrK3A0ZS9yd0NJdVZYTVhrR3VUcmMwV3pHNmtrWmprVXJHU2drdVBPQ2NOTGxtTmVhNlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODU3ODE1CWZpbGU6T1FCLVVwZGF0ZXItUEMtc2V0dXAuZXhlCjJCUWpCV0xpdWdnQ1lmRUhqU1N3ZTV2eVJGOEMzNUk2QVRzRWNMNmRFU0orQTZoaGQwZDJ0YnVCa0xMMzl2cWFjTldtL0JSVFJSeFg4Y3lodE5tRERBPT0K",
+      "url": "https://github.com/ohquebacan/OQB-Updater-PC/releases/download/app-v0.1.4/OQB-Updater-PC-setup.exe"
     }
   }
 }
